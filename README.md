@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thebitless-group-swe/.github/main/logo_thebitless.png" alt="Logo TheBitless" width="280"/>
+</p>
+
 Gruppo 18 del progetto di Ingegneria del Software, anno accademicio 2025/2026.
 
 | Nominativo | Matricola |
